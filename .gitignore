@@ -1,0 +1,6 @@
+# Exclude virtual environment
+.venv/
+
+# Exclude reports folder
+reports/
+.idea/
